@@ -21,5 +21,8 @@ Embedded AI systems, Deep learning, Neuromorphic computing, Computational neuros
 ### About me
 I am an Assistant Professor in the Department of Artificial Intelligence at IIT Hyderabad. Previously, I worked at Innatera Nanosystems in the Netherlands as a Senior Neuromorphic Engineer-Machine Learning. At Innatera, I worked on marrying deep learning and analog computing towards ultra-low power and latency radar target recognition, which resulted in multiple patent applications. Before that, I completed my Ph.D. at Cornell University, USA. As part of my Ph.D., I worked on neuroscience-inspired Artificial Intelligence for learning in the wild, focusing on its implementation in neuromorphic chips such as Intel Loihi. My PhD work is part of an international patent sponsored by Cornell. I completed my Bachelor of Technology in Electrical Engineering from IIT Dhanbad.
 
+### Media coverage
+[What's That Smell?](https://cacm.acm.org/news/246406-whats-that-smell/fulltext)
+
 ***Note: The lab is actively looking for motivated and dynamic students to join. If interested, please drop an email to Ayon mentioning your interests.***
 
