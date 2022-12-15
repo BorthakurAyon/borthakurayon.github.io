@@ -29,5 +29,6 @@ I am an Assistant Professor in the Department of Artificial Intelligence at IIT 
 ---
 **NOTE** - 
 The lab is actively looking for motivated and dynamic students to join. If interested, please drop an email to Ayon mentioning your interests.
+
 ---
 
