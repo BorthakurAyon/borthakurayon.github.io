@@ -23,6 +23,7 @@ I am an Assistant Professor in the Department of Artificial Intelligence at IIT 
 
 ### Media coverage
 [What's That Smell?](https://cacm.acm.org/news/246406-whats-that-smell/fulltext)
+
 [Computers That Smell: Intel’s Neuromorphic Chip Can Sniff Out Hazardous Chemicals](https://newsroom.intel.com/news/computers-smell-intels-neuromorphic-chip-sniff-hazardous-chemicals/#gs.kmjtzz)
 
 ---
