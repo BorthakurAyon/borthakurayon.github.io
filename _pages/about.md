@@ -73,7 +73,7 @@ permalink: /about/
 </div>
 {% endif %}
 
-% if site.data.workshops %}
+{% if site.data.workshops %}
 <div class="jumbotron">
 ### Workshops
 <ul>
