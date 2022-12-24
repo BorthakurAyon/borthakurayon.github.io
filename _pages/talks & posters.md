@@ -2,7 +2,7 @@
 title: "Talks & Posters"
 layout: gridlay
 sitemap: false
-permalink: /talks/
+permalink: /talks & posters/
 ---
 
 <style>
