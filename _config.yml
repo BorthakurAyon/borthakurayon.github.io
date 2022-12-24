@@ -32,7 +32,7 @@ contact: >
 # Pages shown in navbar
 nav_pages:
   - name: about
-  - name: publications & patents
+  - name: patents & publications
   - name: talks & posters
 #  - name: research
   - name: software
