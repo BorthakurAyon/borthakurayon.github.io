@@ -1,5 +1,5 @@
 ---
-title: "Talks"
+title: "Talks & Posters"
 layout: gridlay
 sitemap: false
 permalink: /talks/
