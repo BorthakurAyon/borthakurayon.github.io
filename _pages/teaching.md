@@ -6,6 +6,10 @@ permalink: /teaching/
 ---
 
 ## Teaching
+* Spring 2023,IIT Hyderabad
+    * Neuromorphic Artificial Intelligence ( AI 5073 )-- Theory + Lab course 
+
+
 <!---
 
 * Lecturer (Teaching Fellow), University of Illinois at Urbana--Champaign 
