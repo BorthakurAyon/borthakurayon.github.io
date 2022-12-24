@@ -28,7 +28,7 @@ permalink: /talks/
 </div>-->
 
 <div class="jumbotron">
-### Selected Talks
+### Selected Talks & Posters
 {% bibliography --query @incollection[keywords != invited] %}
 </div>
 
