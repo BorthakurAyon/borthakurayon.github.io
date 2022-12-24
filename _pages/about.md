@@ -73,6 +73,17 @@ permalink: /about/
 </div>
 {% endif %}
 
+% if site.data.workshops %}
+<div class="jumbotron">
+### Workshops
+<ul>
+{% for workshop in site.data.workshops %}
+ <li> {{ workshop.name }} </li>
+{% endfor %}
+</ul>
+</div>
+{% endif %}
+
 {% if site.data.awards %}
 <div class="jumbotron">
 ### Awards
