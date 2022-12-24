@@ -1,8 +1,8 @@
 ---
-title: "Publications & Patents"
+title: "Patents & Publications"
 layout: gridlay
 sitemap: false
-permalink: /publications & patents/
+permalink: /patents & publications/
 years: [2016, 2017, 2018, 2019, 2020, 2021]
 ---
 
