@@ -5,7 +5,6 @@ sitemap: false
 permalink: /openings/
 ---
 ---
-**NOTE** -
-Deep learning, embedded AI, neuromorphic computing, and computational neuroscience PhD positions are available in the lab.If interested, please send an email to Ayon (ayon.borthakur@ai.iith.ac.in) mentioning your interests.
+If you are interested in working with Dr. Ayon Borthakur, please fill up [this form](https://docs.google.com/forms/d/e/1FAIpQLSfZUvYiIv4hq17cYiHNH0ifXNBF1O2pU71Nfrj_VsaKEtfEEg/viewform?usp=pp_url)
 
 ---
