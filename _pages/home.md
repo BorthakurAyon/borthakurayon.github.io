@@ -5,11 +5,13 @@ sitemap: false
 permalink: /
 ---
 
+---
+If you are interested in working with me, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfZUvYiIv4hq17cYiHNH0ifXNBF1O2pU71Nfrj_VsaKEtfEEg/viewform?usp=pp_url)
+
+---
+
 “ No great thing is created suddenly, any more than a bunch of grapes or a fig. If you tell me that you desire a fig, I answer that there must be time. Let it first blossom, then bear fruit, then ripen. ”
 ― Epictetus
-
-" The future of computing is analog. These new “mortal” computers will be used for putting something like GPT-3 in your toaster for one dollar ..."
-― Geoffrey Hinton, NeurIPS 2022. 
 
 ### Welkom!
 
@@ -26,9 +28,5 @@ I am an Assistant Professor in the Department of Artificial Intelligence at IIT 
 
 [Computers That Smell: Intel’s Neuromorphic Chip Can Sniff Out Hazardous Chemicals](https://newsroom.intel.com/news/computers-smell-intels-neuromorphic-chip-sniff-hazardous-chemicals/#gs.kmjtzz)
 
----
-**NOTE** - 
-Deep learning, embedded AI, neuromorphic computing, and computational neuroscience PhD positions are available in the lab.If interested, please send an email to Ayon (ayon.borthakur@ai.iith.ac.in) mentioning your interests.
 
----
 
