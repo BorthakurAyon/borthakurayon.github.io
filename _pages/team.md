@@ -20,8 +20,8 @@ permalink: /team/
 
 <div class="row">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="18%" style="float: left" />
-  <h4>{{ member.name }}</h4>  
-  </br>
+  <h4>{{ member.name }}</h4>
+  </br> </br> 
   <i>{{ member.info }}</i><br>
 
   {% if member.website %}<a href="{{ member.website }}" target="_blank"><i class="fa fa-home fa-2x"></i></a> {% endif %}
