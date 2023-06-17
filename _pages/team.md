@@ -7,7 +7,10 @@ permalink: /team/
 
 ## Team
 
+<!---
+
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ -->
 
 <!--- Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
 
@@ -41,7 +44,7 @@ permalink: /team/
 {% endfor %}
 
 
-## Current Students and Postdocs
+## Current students
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -110,6 +113,7 @@ permalink: /team/
 </div>
 {% endif %}
 
+<!---
 
 ## Alumni
 
@@ -160,4 +164,5 @@ permalink: /team/
 
 ## Administrative Support
 <a href="exampleemail@gmail.com">Example staff</a> is helping us (and other groups) with administration.
+-->
 
