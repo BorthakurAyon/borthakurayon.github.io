@@ -30,12 +30,12 @@ permalink: /team/
   <!-- {% if member.researchgate %} <a href="{{ member.researchgate }}" target="_blank"><i class="ai ai-researchgate-square ai-2x"></i></a> {% endif %} -->
   <!-- <ul style="overflow: hidden"> -->
 
-  <!--<li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>-->
-   <!--<li> {{ member.education5 }} </li>
-  <li> {{ member.education6 }} </li> -->
+  <!--<li> {{ member.education1 }} </li>-->
+  <!-- <li> {{ member.education2 }} </li>-->
+  <!-- <li> {{ member.education3 }} </li>-->
+  <!-- <li> {{ member.education4 }} </li>-->
+  <!--<li> {{ member.education5 }} </li>-->
+  <!-- <li> {{ member.education6 }} </li> -->
 
   </ul>
 </div>
