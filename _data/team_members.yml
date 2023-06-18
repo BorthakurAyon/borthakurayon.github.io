@@ -1,8 +1,15 @@
 - name: Samyak Panda 
   photo: picture_samyak (1).jpeg
-  info: Samyak Panda is a student at IIT Kharagpur, majoring in Electrical Engineering along with micro specialization in Artificial Intelligence. 
+  info: Samyak Panda is a student at IIT Kharagpur, majoring in Electrical Engineering along with micro specialization in Artificial Intelligence. He is aligned toward research in the field of analytics and deep neural networks. 
 - name: Aditya Somasundaram
   photo: Headshot- 2.jpg
-  info:  BTech in Electrical Engineering (Batch of 2024), IITH
+  info:  BTech in Electrical Engineering (Batch of 2024), IITH. Academic Interests: Mathematical aspects of Computer and Computational Science
 - name: Pushkal Mishra
   info:  BTech in Electrical Engineering (Batch of 2024), IITH
+- name: Syed Saqib Habeeb
+  photo: Syed Saqib Habeeb.jpeg
+  info: Syed is a third-year undergraduate student at IITH majoring in biomedical engineering (specialization in AI-NI), with a keen interest in machine learning, brain-computer interfaces, and cyber security.
+- name: Ameya Chatur
+  photo: Headshot.jpeg
+  info: Ameya is a third-year undergraduate student at IITH majoring in Biomedical Engineering specializing in Artificial Intelligence and Natural intelligence and a minor in Computer Science and Engineering, with a keen interest in Machine Learning
+  
