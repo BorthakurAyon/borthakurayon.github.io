@@ -1,8 +1,10 @@
-- name: 
-  photo:
-  info: 
+- name: Samyak Panda 
+  photo: picture_samyak (1).jpeg
+  info: Samyak Panda is a student at IIT Kharagpur, majoring in Electrical Engineering along with micro specialization in Artificial Intelligence. He has recently worked on projects including a Monte Carlo simulator and a position and trajectory predicting program with the help of Kalman Gain factor. He is aligned toward research in the field of analytics and deep neural networks. 
+  <!---
   number_educ: 0
   education1:
   education2:
   education3:
   education4:
+  -->
