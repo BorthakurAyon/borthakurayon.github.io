@@ -35,9 +35,9 @@ nav_pages:
   - name: patents & publications
   - name: talks & posters
   - name: team
-  - name: Software
+  - name: software
   - name: openings
-  - name: Teaching
+  - name: teaching
 
 include:
   - .htaccess
