@@ -1,6 +1,6 @@
 # Site settings
 title: Dr. Ayon Borthakur
-email: ayon.borthakur@ai.iith.ac.in
+email: ayon.borthakur@iitg.ac.in
 description: Academic webpage of Dr. Ayon Borthakur
 baseurl: ""
 url: ""
@@ -17,17 +17,17 @@ url: ""
 affiliation: >
     Dr. Ayon Borthakur<br/>
     Assistant Professor<br/>
-    <a href="https://ai.iith.ac.in/" target="_blank">Dept. of Artificial Intelligence</a><br/>
-    IIT Hyderabad
+    <a href="https://www.iitg.ac.in/dsai/dsai_core_faculty.html/" target="_blank">MFDS\&AI</a><br/>
+    IIT Guwahati
 
 location: >
-  112C, Academic Block C <br/>
-  IIT Hyderabad <br/>
-  Near NH-65, Kandi, Sangareddy <br/>
-  Telangana 502285, India
+  2nd Floor, Computer and Communication Centre (CCC) <br/>
+  Mehta Family School of Data Science \& Artificial Intelligence <br/>
+  IIT Guwahati <br/>
+  Assam 781039, India
 
 contact: >
-    <a href="mailto:ayon.borthakur@ai.iith.ac.in" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Ayon via email</a> <br/>
+    <a href="mailto:ayon.borthakur@iitg.ac.in" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Ayon via email</a> <br/>
 
 # Pages shown in navbar
 nav_pages:
@@ -35,9 +35,9 @@ nav_pages:
   - name: patents & publications
   - name: talks & posters
   - name: team
-  - name: software
+  - name: Software
   - name: openings
-  - name: teaching
+  - name: Teaching
 
 include:
   - .htaccess
