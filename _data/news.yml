@@ -1,12 +1,27 @@
+- date:  Oct, 2023
+  headline: Ayon delivered a keynote talk at the International Workshop on Sustainable AI for Edge, AIMLSys 2023 Bengaluru. Additionally served as a panelist and had some insightful discussions about the development of edge AI in India.
+
+- date:  Oct, 2023
+  headline: The lab moved to IIT Guwahati from IIT Hyderabad. 
+
+- date:  Oct, 2023
+  headline: Raghav's paper on edge AI has been accepted for presentation at SAI4E 2023.
+
+- date:  June, 2023
+  headline: Ayon delivered a talk at the ACM summer school on "Algorithmic Techniques in Computational Biology", IIT Hyderabad. 
+
+- date:  May, 2023
+  headline: Arpit Shrimankar presented a poster on “A study on bird sound processing using a biologically plausible neural architecture” at “Complexity and Nonlinear Dynamics in STEM” (CNLDS -2023), IIT Hyderabad. 
+
+- date:  March, 2023
+  headline: Ayon delivered a talk in the AAII Technical Lecture Series (ATLS-24) on the topic "How Can Neuroscience Aid in Designing a Mortal Computer".
+
 - date:  Jan, 2023
   headline: Ayon delivered an invited talk at the DRDO colloquium "Artificial Intelligence Systems for Aerospace and Defence Applications"
 
 - date:  Dec, 2022
-  headline: Ayon will teach a brand new industry oriented course titled Neuromorphic AI ( AI 5073 ) in Spring 2023. 
+  headline: Ayon will teach a brand new industry-oriented course titled Neuromorphic AI ( AI 5073 ) in Spring 2023. 
   
-- date:  Dec, 2022
-  headline: Manish Chandra Karumuri, Chem E, IIT Hyderabad joins the lab.
-
 - date:  Dec, 2022
   headline: The lab is now a member of the Intel Neuromorphic Research Community.
 
@@ -14,6 +29,6 @@
   headline: Samyak Panda, EE, IIT Kharagpur joins the lab as a Winter Intern.
 
 - date:  Nov, 2022
-  headline: Practical Neuro AI Laboratory opens.
+  headline: The lab opens at IIT Hyderabad ( still searching for a name ... )
 
 # "<a href='https://arxiv.org/abs/2008.05063' target='_blank'>Preprint</a> released on QBMMlib, our <a href='https://github.com/sbryngelson/QBMMlib' target='_blank'>open-source solver</a> for quadrature moment methods!"
