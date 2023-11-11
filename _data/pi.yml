@@ -1,17 +1,19 @@
 - name: Dr. Ayon Borthakur
   photo: AyonBorthakur_PhD.jpg
-  info: Assistant Professor  <br> Dept. of Artificial Intelligence  <br> IIT Hyderabad
-  email: ayon.borthakur@ai.iith.ac.in
+  info: Assistant Professor  <br> Mehta Family School of Data Science & Artificial Intelligence  <br> IIT Guwahati
+  email: ayon.borthakur@iitg.ac.in
   # linkedin: https://www.linkedin.com/in/ayonborthakur
   researchgate: https://www.researchgate.net/profile/Ayon-Borthakur
   scholar: https://scholar.google.com/citations?user=QCByMQwAAAAJ&hl=en
   # cv:
-  number_educ: 4
-  education1: (2021-22) Senior Neuromorphic Engineer, <br> Innatera Nanosystems, The Netherlands
-  education2: (2021) Ph.D., Artifcial Intelligence ( Computational Biology ), <br> Cornell University, USA, <br> Thesis Committee- Thomas Cleland (Chair), Thorsten Joachims, David Field, Alyosha Molnar, David Smith
-  education3: (2013-14) Research Assistant, Center for Neuroscience, <br> IISc Bengaluru ( with Supratim Ray)
-  education4: (2013) B.Tech, Electrical Engineering, IIT Dhanbad
-  education1short: (2021-22) Innatera Nanosystems, The Netherlands
-  education2short: (2021) Ph.D., Cornell University, USA
-  education3short: (2014) RA, IISc Bengaluru
-  education4short: (2013) B-Tech, IIT Dhanbad
+  number_educ: 5
+  education1: (2022-23) Assistant Professor, <br> IIT Hyderabad, India
+  education2: (2021-22) Senior Neuromorphic Engineer, <br> Innatera Nanosystems, The Netherlands
+  education3: (2021) Ph.D., Artificial Intelligence ( Computational Biology ), <br> Cornell University, USA, <br> Thesis Committee- Thomas Cleland (Chair), Thorsten Joachims, David Field, Alyosha Molnar, David Smith
+  education4: (2013-14) Research Assistant, Center for Neuroscience, <br> IISc Bengaluru ( with Supratim Ray)
+  education5: (2013) B.Tech, Electrical Engineering, IIT Dhanbad
+  education1short: (2022-23) IIT Hyderabad, India
+  education2short: (2021-22) Innatera Nanosystems, The Netherlands
+  education3short: (2021) Ph.D., Cornell University, USA
+  education4short: (2014) RA, IISc Bengaluru
+  education5short: (2013) B-Tech, IIT Dhanbad
