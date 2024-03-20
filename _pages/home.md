@@ -13,7 +13,7 @@ We are hiring for projects pertaining to the following subjects.
 * TinyML for Radar applications
 * TinyML for tactile applications
 * AI Inspired by Neuroscience
-* Neuromorphic Computing \& Engineering
+* Neuromorphic Computing & Engineering
 
 Please send an email to **ayon.borthakur@iitg.ac.in** if you are motivated. 
 
