@@ -6,6 +6,9 @@ permalink: /teaching/
 ---
 
 ## Teaching
+* Spring 2024, IIT Guwahati
+    * Data Mining ( DA 324 )
+    * Data Visualization ( DA 391 )
 * Spring 2023, IIT Hyderabad
     * Neuromorphic Artificial Intelligence ( AI 5073 )-- Theory + Lab course 
 
